@@ -20,7 +20,7 @@ http://192.168.1.1:9999/udp/233.50.201.121:5140
 http://192.168.1.1:9999/udp/233.50.201.122:5140
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://yourhost/iptv-logo/CCTV12.png" group-title="央视高清",CCTV12
 http://192.168.1.1:9999/udp/233.50.201.123:5140
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://yourhost/iptv-logo/CCTV13.png" group-title="卫视",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://yourhost/iptv-logo/CCTV13.png" group-title="央视高清",CCTV13
 http://192.168.1.1:9999/udp/233.50.201.246:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://yourhost/iptv-logo/CCTV14.png" group-title="央视高清",CCTV14
 http://192.168.1.1:9999/udp/233.50.201.124:5140
@@ -190,5 +190,5 @@ http://192.168.1.1:9999/udp/233.50.201.227:5140
 http://192.168.1.1:9999/udp/233.50.201.248:5140
 #EXTINF:-1 tvg-id="96" tvg-name="YMG新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="卫视标清",YMG新闻
 http://192.168.1.1:9999/udp/233.50.201.159:5140
-#EXTINF:-1 tvg-id="97" tvg-name="CETV4" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="卫视",CETV4
+#EXTINF:-1 tvg-id="97" tvg-name="CETV4" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="其他频道",CETV4
 http://192.168.1.1:9999/udp/233.50.201.172:5140

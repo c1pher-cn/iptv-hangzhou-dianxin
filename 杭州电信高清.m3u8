@@ -38,7 +38,7 @@ http://192.168.1.1:9999/udp/233.50.201.103:5140
 http://192.168.1.1:9999/udp/233.50.201.104:5140
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://yourhost/iptv-logo/shandong.png" group-title="卫视高清",山东卫视
 http://192.168.1.1:9999/udp/233.50.201.105:5140
-#EXTINF:-1 tvg-id="32" tvg-name="江苏卫视" tvg-logo="http://yourhost/iptv-logo/jiangsu.png" group-title="卫视高清",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://yourhost/iptv-logo/jiangsu.png" group-title="卫视高清",江苏卫视
 http://192.168.1.1:9999/udp/233.50.201.106:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://yourhost/iptv-logo/beijing.png" group-title="卫视高清",北京卫视
 http://192.168.1.1:9999/udp/233.50.201.107:5140

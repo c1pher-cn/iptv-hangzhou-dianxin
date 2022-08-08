@@ -94,6 +94,36 @@ http://192.168.1.1:9999/udp/233.50.201.175:5140
 http://192.168.1.1:9999/udp/233.50.201.176:5140
 #EXTINF:-1 tvg-id="48" tvg-name="杭州5青少" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州5青少
 http://192.168.1.1:9999/udp/233.50.201.177:5140
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV1
+http://192.168.1.1:9999/udp/233.50.201.168:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV2" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV2
+http://192.168.1.1:9999/udp/233.50.201.178:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV3" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV3
+http://192.168.1.1:9999/udp/233.50.201.179:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV4" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV4
+http://192.168.1.1:9999/udp/233.50.201.180:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV5" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV5
+http://192.168.1.1:9999/udp/233.50.201.181:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="温州新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",温州新闻
+http://192.168.1.1:9999/udp/233.50.201.87:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="衢州新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",衢州新闻
+http://192.168.1.1:9999/udp/233.50.201.155:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="绍兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",绍兴新闻
+http://192.168.1.1:9999/udp/233.50.201.156:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="台州-1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",台州-1
+http://192.168.1.1:9999/udp/233.50.201.157:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="湖州公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",湖州公共
+http://192.168.1.1:9999/udp/233.50.201.158:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="余杭新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",余杭新闻
+http://192.168.1.1:9999/udp/233.50.201.159:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="金华新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",金华新闻
+http://192.168.1.1:9999/udp/233.50.201.161:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="丽水新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",丽水新闻
+http://192.168.1.1:9999/udp/233.50.201.162:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="嘉兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",嘉兴新闻
+http://192.168.1.1:9999/udp/233.50.201.163:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="桐乡新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",桐乡新闻
+http://192.168.1.1:9999/udp/233.50.201.169:5140
 #EXTINF:-1 tvg-id="49" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
 http://192.168.1.1:9999/udp/233.50.201.182:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://yourhost/iptv-logo/youxifengyun.png" group-title="游戏频道",游戏风云

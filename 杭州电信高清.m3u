@@ -38,7 +38,7 @@ http://192.168.1.1:9999/udp/233.50.201.103:5140
 http://192.168.1.1:9999/udp/233.50.201.104:5140
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://yourhost/iptv-logo/shandong.png" group-title="卫视高清",山东卫视
 http://192.168.1.1:9999/udp/233.50.201.105:5140
-#EXTINF:-1 tvg-id="32" tvg-name="江苏卫视" tvg-logo="http://yourhost/iptv-logo/jiangsu.png" group-title="卫视高清",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://yourhost/iptv-logo/jiangsu.png" group-title="卫视高清",江苏卫视
 http://192.168.1.1:9999/udp/233.50.201.106:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://yourhost/iptv-logo/beijing.png" group-title="卫视高清",北京卫视
 http://192.168.1.1:9999/udp/233.50.201.107:5140
@@ -96,7 +96,7 @@ http://192.168.1.1:9999/udp/233.50.201.176:5140
 http://192.168.1.1:9999/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="49" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
 http://192.168.1.1:9999/udp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="50" tvg-name="游戏风云" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="游戏频道",游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://yourhost/iptv-logo/youxifengyun.png" group-title="游戏频道",游戏风云
 http://192.168.1.1:9999/udp/233.50.201.183:5140
 #EXTINF:-1 tvg-id="51" tvg-name="动漫秀场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="动漫频道",动漫秀场
 http://192.168.1.1:9999/udp/233.50.201.184:5140
@@ -106,7 +106,7 @@ http://192.168.1.1:9999/udp/233.50.201.185:5140
 http://192.168.1.1:9999/udp/233.50.201.186:5140
 #EXTINF:-1 tvg-id="54" tvg-name="生活时尚" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",生活时尚
 http://192.168.1.1:9999/udp/233.50.201.187:5140
-#EXTINF:-1 tvg-id="55" tvg-name="湖南茶频道" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",湖南茶频道
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://yourhost/iptv-logo/chapindao.png" group-title="地方高清",茶频道
 http://192.168.1.1:9999/udp/233.50.201.188:5140
 #EXTINF:-1 tvg-id="56" tvg-name="欢笑剧场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",欢笑剧场
 http://192.168.1.1:9999/udp/233.50.201.189:5140
@@ -122,13 +122,13 @@ http://192.168.1.1:9999/udp/233.50.201.193:5140
 http://192.168.1.1:9999/udp/233.50.201.194:5140
 #EXTINF:-1 tvg-id="62" tvg-name="iPanda3" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",iPanda3
 http://192.168.1.1:9999/udp/233.50.201.195:5140
-#EXTINF:-1 tvg-id="63" tvg-name="湖南快乐垂钓" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="卫视高清",湖南快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://yourhost/iptv-logo/kuailechuidiao.png" group-title="卫视高清",快乐垂钓
 http://192.168.1.1:9999/udp/233.50.201.109:5140
 #EXTINF:-1 tvg-id="64" tvg-name="BesTV" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",BesTV
 http://192.168.1.1:9999/udp/233.50.201.201:5140
 #EXTINF:-1 tvg-id="65" tvg-name="游戏频道" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="游戏频道",游戏频道
 http://192.168.1.1:9999/udp/233.50.201.207:5140
-#EXTINF:-1 tvg-id="66" tvg-name="极速汽车" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",极速汽车
+#EXTINF:-1 tvg-id="1975" tvg-name="极速汽车" tvg-logo="http://yourhost/iptv-logo/jisuqiche.png" group-title="地方高清",极速汽车
 http://192.168.1.1:9999/udp/233.50.201.208:5140
 #EXTINF:-1 tvg-id="67" tvg-name="游戏频道" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="游戏频道",游戏频道
 http://192.168.1.1:9999/udp/233.50.201.215:5140

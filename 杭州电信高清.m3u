@@ -222,3 +222,7 @@ http://192.168.1.1:9999/udp/233.50.201.248:5140
 http://192.168.1.1:9999/udp/233.50.201.159:5140
 #EXTINF:-1 tvg-id="97" tvg-name="CETV4" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="其他频道",CETV4
 http://192.168.1.1:9999/udp/233.50.201.172:5140
+#EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://yourhost/iptv-logo/fenghuangzhongwen.png" group-title="卫视",凤凰卫视中文
+http://192.168.1.1:9999/udp/233.50.200.191:5140
+#EXTINF:-1 tvg-id="82" tvg-name="凤凰卫视资讯" tvg-logo="http://yourhost/iptv-logo/fenghuangzixun.png" group-title="卫视",凤凰卫视资讯
+http://192.168.1.1:9999/udp/233.50.200.192:5140

@@ -32,7 +32,7 @@ http://192.168.1.1:9999/udp/233.50.201.124:5140
 http://192.168.1.1:9999/udp/233.50.201.15:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://yourhost/iptv-logo/CCTV16.png" group-title="央视高清",CCTV16
 http://192.168.1.1:9999/udp/233.50.201.192:5140
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV17" tvg-logo="http://yourhost/iptv-logo/CCTV17.png" group-title="央视高清",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://yourhost/iptv-logo/CCTV17.png" group-title="央视高清",CCTV17
 http://192.168.1.1:9999/udp/233.50.201.35:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV奥运" tvg-logo="http://yourhost/iptv-logo/CCTVaoyun.png" group-title="央视高清",CCTV奥运
 http://192.168.1.1:9999/udp/233.50.201.63:5140
@@ -47,7 +47,7 @@ http://192.168.1.1:9999/udp/233.50.201.101:5140
 http://192.168.1.1:9999/udp/233.50.201.102:5140
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://yourhost/iptv-logo/hunan.png" group-title="卫视高清",湖南卫视
 http://192.168.1.1:9999/udp/233.50.201.103:5140
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://yourhost/iptv-logo/tianjin.png" group-title="卫视高清",	
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://yourhost/iptv-logo/tianjin.png" group-title="卫视高清",	天津卫视
 http://192.168.1.1:9999/udp/233.50.201.104:5140
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://yourhost/iptv-logo/shandong.png" group-title="卫视高清",山东卫视
 http://192.168.1.1:9999/udp/233.50.201.105:5140

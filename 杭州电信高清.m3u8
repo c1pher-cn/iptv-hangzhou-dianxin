@@ -182,8 +182,11 @@ http://192.168.1.1:9999/udp/233.50.201.163:5140
 http://192.168.1.1:9999/udp/233.50.201.169:5140
 #EXTINF:-1 tvg-id="49" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",杭州导视
 http://192.168.1.1:9999/udp/233.50.201.182:5140
+#EXTINF:-1 tvg-id="60" tvg-name="之江记录" tvg-logo="http://yourhost/iptv-logo/zjjl.png" group-title="地方",之江记录
+http://192.168.1.1:9999/udp/233.50.202.25:5140
 
-
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://yourhost/iptv-logo/yybb.jpg" group-title="其他频道",优优宝贝
+http://192.168.1.1:9999/udp/233.50.202.24:5140
 #EXTINF:-1 tvg-id="91" tvg-name="新视觉HD" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="影视剧场",新视觉HD
 http://192.168.1.1:9999/udp/233.50.201.244:5140
 #EXTINF:-1 tvg-id="56" tvg-name="欢笑剧场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="影视剧场",欢笑剧场

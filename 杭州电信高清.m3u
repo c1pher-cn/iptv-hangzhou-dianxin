@@ -37,9 +37,6 @@ http://192.168.1.1:9999/udp/233.50.201.192:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://yourhost/iptv-logo/CCTV17.png" group-title="央视高清",CCTV17
 http://192.168.1.1:9999/udp/233.50.201.35:5140
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://yourhost/iptv-logo/CCTV1.png" group-title="央视标清",CCTV1
-http://192.168.1.1:9999/udp/233.50.201.208:5140
-
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://yourhost/iptv-logo/zhejiang.png" group-title="卫视高清",浙江卫视
 http://192.168.1.1:9999/udp/233.50.201.100:5140
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://yourhost/iptv-logo/shenzhen.png" group-title="卫视高清",深圳卫视

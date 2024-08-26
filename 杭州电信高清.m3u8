@@ -21,7 +21,7 @@ http://192.168.1.1:9999/udp/233.50.201.121:5140
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://yourhost/iptv-logo/CCTV10.png" group-title="央视高清",CCTV10
 http://192.168.1.1:9999/udp/233.50.201.122:5140
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://yourhost/iptv-logo/CCTV11.png" group-title="央视高清",CCTV11
-http://192.168.1.1:9999/udp/233.50.201.11:5140
+http://192.168.1.1:9999/udp/233.50.202.39:5140
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://yourhost/iptv-logo/CCTV12.png" group-title="央视高清",CCTV12
 http://192.168.1.1:9999/udp/233.50.201.123:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://yourhost/iptv-logo/CCTV13.png" group-title="央视高清",CCTV13
@@ -29,7 +29,7 @@ http://192.168.1.1:9999/udp/233.50.201.246:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://yourhost/iptv-logo/CCTV14.png" group-title="央视高清",CCTV14
 http://192.168.1.1:9999/udp/233.50.201.124:5140
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://yourhost/iptv-logo/CCTV15.png" group-title="央视高清",CCTV15
-http://192.168.1.1:9999/udp/233.50.201.15:5140
+http://192.168.1.1:9999/udp/233.50.202.40:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4k" tvg-logo="http://yourhost/iptv-logo/CCTV16.png" group-title="央视高清",CCTV16 4k
 http://192.168.1.1:9999/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://yourhost/iptv-logo/CCTV16.png" group-title="央视高清",CCTV16

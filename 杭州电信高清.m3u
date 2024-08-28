@@ -84,7 +84,7 @@ http://192.168.1.1:9999/udp/233.50.200.165:5140
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://yourhost/iptv-logo/guangxi.png" group-title="卫视高清",广西卫视
 http://192.168.1.1:9999/udp/233.50.200.136:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://yourhost/iptv-logo/yunnan.png" group-title="卫视高清",云南卫视
-http://192.168.1.1:9999/udp/233.50.200.136:5140
+http://192.168.1.1:9999/udp/233.50.200.115:5140
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://yourhost/iptv-logo/jilin.png" group-title="卫视高清",吉林卫视
 http://192.168.1.1:9999/udp/233.50.202.42:5140
 #EXTINF:-1 tvg-id="51" tvg-name="三沙卫视" tvg-logo="http://yourhost/iptv-logo/sansha.png" group-title="卫视高清",三沙卫视

@@ -233,13 +233,13 @@ http://192.168.1.1:9999/udp/233.50.201.224:5140
 #EXTINF:-1 tvg-id="69" tvg-name="中国蓝直播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="高清剧场",中国蓝直播
 http://192.168.1.1:9999/udp/233.50.201.108:5140
 
-#EXTINF:-1 tvg-id="6605" tvg-name="晴彩竞技" tvg-logo="http://www.c1pher.cn/iptv-logo/yybb.jpg" group-title="其他频道",晴彩竞技
+#EXTINF:-1 tvg-id="6605" tvg-name="晴彩竞技" tvg-logo="http://yourhost/iptv-logo/yybb.jpg" group-title="其他频道",晴彩竞技
 http://192.168.1.1:9999/udp/233.50.202.26:5140
-#EXTINF:-1 tvg-id="6605" tvg-name="晴彩篮球" tvg-logo="http://www.c1pher.cn/iptv-logo/yybb.jpg" group-title="其他频道",晴彩篮球
+#EXTINF:-1 tvg-id="6605" tvg-name="晴彩篮球" tvg-logo="http://yourhost/iptv-logo/yybb.jpg" group-title="其他频道",晴彩篮球
 http://192.168.1.1:9999/udp/233.50.202.27:5140
-#EXTINF:-1 tvg-id="6605" tvg-name="晴彩青少" tvg-logo="http://www.c1pher.cn/iptv-logo/yybb.jpg" group-title="其他频道",晴彩青少
+#EXTINF:-1 tvg-id="6605" tvg-name="晴彩青少" tvg-logo="http://yourhost/iptv-logo/yybb.jpg" group-title="其他频道",晴彩青少
 http://192.168.1.1:9999/udp/233.50.202.28:5140
-#EXTINF:-1 tvg-id="6605" tvg-name="晴彩广场舞" tvg-logo="http://www.c1pher.cn/iptv-logo/yybb.jpg" group-title="其他频道",晴彩广场舞
+#EXTINF:-1 tvg-id="6605" tvg-name="晴彩广场舞" tvg-logo="http://yourhost/iptv-logo/yybb.jpg" group-title="其他频道",晴彩广场舞
 http://192.168.1.1:9999/udp/233.50.202.29:5140
 
 #EXTINF:-1 tvg-id="60" tvg-name="浙江之声广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",浙江之声广播
